@@ -7,8 +7,5 @@ module.exports = {
   publicPath: "/build/",
   serverBuildDirectory: "build",
   devServerPort: 8002,
-  ignoredRouteFiles: [".*"],
-  routes : ()=>{
-    return 
-  }
+  ignoredRouteFiles: [".*"]
 };
